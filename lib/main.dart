@@ -3,6 +3,11 @@ import 'package:provider/provider.dart';
 import 'providers/user_provider.dart';
 import 'screens/home_screen.dart';
 
+
+
+
+
+
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
   runApp(const MyApp());
